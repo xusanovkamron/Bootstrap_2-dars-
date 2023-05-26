@@ -1,0 +1,179 @@
+.up{
+    background-color: white;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+.dark{
+    transform: rotate(90deg);
+    margin-top: -105px;
+    margin-bottom: 95px;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: 4px;
+    font-size: 15px;
+}
+.dark1{
+    transform: rotate(90deg);
+    margin-top: -105px;;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: -381px;
+    font-size: 15px;
+}
+.dark2{
+    transform: rotate(90deg);
+    margin-top: -40px;
+    margin-bottom: 95px;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: 380px;
+    font-size: 15px;
+}
+.dark3{
+    transform: rotate(90deg);
+    margin-top: -105px;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: -568px;
+    font-size: 15px;
+}
+.dark4{
+    transform: rotate(90deg);
+    margin-top: -37px;
+    margin-bottom: 95px;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: 572px;
+    font-size: 15px;
+}
+.dark5{
+    transform: rotate(90deg);
+    margin-top: -105px;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: -568px;
+    font-size: 15px;
+}
+.dark6{
+    transform: rotate(90deg);
+    margin-top: -37px;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: 572px;
+    font-size: 15px;
+}
+.dark7{
+    transform: rotate(90deg);
+    margin-top: -37px;
+    margin-bottom: 95px;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: 4px;
+    font-size: 15px;
+}
+.dark8{
+    transform: rotate(90deg);
+    margin-top: -105px;
+    margin-bottom: 95px;
+    color: black;
+    position: relative;
+    z-index: 2;
+    margin-left: 380px;
+    font-size: 15px;
+}
+.dark9{
+     transform: rotate(90deg);
+     margin-top: -105px;
+     margin-bottom: 95px;
+     color: black;
+     position: relative;
+     z-index: 2;
+     margin-left: -381px;
+     font-size: 15px;
+}
+.simple{
+    border-left: 10px solid lightgrey;
+    border-right: 10px solid lightgrey;
+    border-top: 15px solid lightgrey;
+    border-bottom: 15px solid lightgrey;
+    background-color: #1a73e8;
+    height: 200px;
+    margin-top: 20px;
+    padding-top: 48px;
+    font-size: 48px;
+}
+.simple2{
+    border-left: 10px solid lightgrey;
+    border-right: 10px solid lightgrey;
+    border-top: 15px solid lightgrey;
+    border-bottom: 15px solid lightgrey;
+    background-color: #1a73e8;
+    height: 200px;
+    margin-top: 20px;
+    padding-top: 48px;
+    font-size: 48px;
+}
+.simple3{
+    border-left: 10px solid lightgrey;
+    border-right: 10px solid lightgrey;
+    border-top: 15px solid lightgrey;
+    border-bottom: 15px solid lightgrey;
+    background-color: #1a73e8;
+    height: 200px;
+    margin-top: 20px;
+    padding-top: 48px;
+    font-size: 48px;
+}
+.simple4{
+    border-left: 10px solid lightgrey;
+    border-right: 10px solid lightgrey;
+    border-top: 15px solid lightgrey;
+    border-bottom: 15px solid lightgrey;
+    background-color: #1a73e8;
+    height: 200px;
+    margin-top: 20px;
+    padding-top: 48px;
+    font-size: 48px;
+}
+.simple5{
+    border-left: 10px solid lightgrey;
+    border-right: 10px solid lightgrey;
+    border-top: 15px solid lightgrey;
+    border-bottom: 15px solid lightgrey;
+    background-color: #1a73e8;
+    height: 200px;
+    margin-top: 20px;
+    padding-top: 48px;
+    font-size: 48px;
+}
+.simple6{
+    border-left: 10px solid lightgrey;
+    border-right: 10px solid lightgrey;
+    border-top: 15px solid lightgrey;
+    border-bottom: 15px solid lightgrey;
+    background-color: #1a73e8;
+    height: 200px;
+    margin-top: 20px;
+    padding-top: 48px;
+    font-size: 48px;
+}
+.simple7{
+    border-left: 10px solid lightgrey;
+    border-right: 10px solid lightgrey;
+    border-top: 15px solid lightgrey;
+    border-bottom: 15px solid lightgrey;
+    background-color: #1a73e8;
+    height: 200px;
+    margin-top: 20px;
+    padding-top: 48px;
+    font-size: 48px;
+}

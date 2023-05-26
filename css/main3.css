@@ -1,0 +1,73 @@
+.btn-inline{
+    display: block;
+}
+button{
+    width: 190px !important;
+    height: 55px;
+}
+a{
+    width: 190px !important;
+    height: 55px;
+}
+.button1-bg-color{
+    background-color: #1BB869;
+}
+.button2-bg-color{
+    background-color: #38C17B;
+}
+.button3-bg-color{
+    background-color: #129E56;
+}
+.button4-bg-color{
+    background-color: #2699C8;
+}
+.button5-bg-color{
+    background-color: #42A4D8;
+}
+.button6-bg-color{
+    background-color: #1882AC;
+}
+.uzbek-commodity{
+    width: 655px;
+    height: 220px;
+    margin-left: -90px;
+}
+.margin-left{
+    margin-left: 5px;
+}
+.btn-outline-1{
+    border: 1px solid #F1F1F1;
+    color: #F1F1F1;
+    background-color: #F9F9F9;
+}
+.btn-outline-2{
+    border: 1px solid #DFDFDF;
+    color: #DFDFDF;
+    background-color: white;
+}
+.btn-outline-3{
+    border: 1px solid #DFDFDF;
+    color: #4A4A4A;
+    background-color: white;
+}
+.btn-outline-4{
+    border: 1px solid #6E8C8A;
+    color: #4A4A4A;
+    background-color: white;
+}
+.pt{
+    margin-left: 50px;
+}
+.pr{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+.chap{
+    width: 55px;
+    height: 55px;
+    margin-top: -7.5px;
+    margin-left: 30px;
+}
+.wrap{
+    margin-right: 200px;
+}

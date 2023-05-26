@@ -1,0 +1,47 @@
+.radius{
+    border-radius: 30px;
+}
+.line{
+    background: linear-gradient(90deg,yellow,orange);
+}
+.pu{
+    background: linear-gradient(90deg,hotpink,purple);
+}
+.bl{
+    background: linear-gradient(90deg,deepskyblue,mediumblue);
+}
+.aqua{
+    background: linear-gradient(90deg,dodgerblue,aqua);
+}
+.ong{
+    margin-left: 410px;
+}
+.de{
+    background-color: #04ffa6;
+}
+.pur{
+    background-color: #c221c2;
+}
+.purp{
+    border-color: #c221c2;
+    color: #c221c2;
+}
+.def{
+    border-color: #04ffa6;
+    color: #04ffa6;
+}
+.btni{
+    margin-left: 20px;
+}
+.margin{
+    margin-left: 30px;
+}
+.margin1{
+    margin-left: 150px;
+}
+.margin2{
+    margin-left: 46px;
+}
+.margin3{
+
+}
